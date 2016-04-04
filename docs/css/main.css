@@ -1,0 +1,30 @@
+*{
+	margin: 0 auto;
+	display: inline;
+}	
+.logo{
+	text-align: right;
+}
+.text-gray{
+	text-decoration: none;
+	border-right: solid #BAB2B2 2px;
+	margin: 40px;
+	font-family:sans-serif;#BAB2B2;
+	color: #BAB2B2;
+}
+.parrafo1{
+	background: #E4E3E3;
+    float: left;
+    margin: 0 auto;
+}
+.p-1{
+	float: left;
+	color: #A8A3A3;
+	text-align: center;
+}
+.col .s6{
+	display: inline;
+	float: left;
+	box-sizing:border-box;
+	top: 40px;
+}
